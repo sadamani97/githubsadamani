@@ -5,3 +5,4 @@ git add testgithub.txt
 git status
  git commit -m "testgithub.txt file added"
  git push origin main
+ git pull
